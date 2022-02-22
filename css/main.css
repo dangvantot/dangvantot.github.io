@@ -808,6 +808,9 @@ a {
   font-weight: 450;
   padding: 20px 0 20px 0;
 }
+.menu_logo {
+  padding-left: 350px;
+}
 .menu_color:hover {
   color: var(--primary-color);
 }
